@@ -1,0 +1,35 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor and workspace metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*.log
+
+# Microsoft Office lock/temp files
+~$*
+*.~lock.*
+
+# Local environment / hidden files
+.env
+.env.*
+
+# Generic local caches
+.cache/
+__pycache__/
+*.pyc
+
+# Keep project documents tracked; do not ignore PDFs, DOCX, or MD files intentionally.
