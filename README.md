@@ -16,6 +16,8 @@ The trip includes a multi-city faculty roadshow with a structured sequence of sc
   - Hotel, venue, and meeting contract records; contact-related documentation
 - [facuty info_oct 2026](./facuty%20info_oct%202026/)
   - Faculty information and supporting trip reference material
+- [document_log](./document_log/)
+  - Scanned document modification log with timestamps and README summary
 
 ## Main document categories
 
